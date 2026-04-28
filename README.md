@@ -3,7 +3,7 @@
   <p><i>But what I like best is when people just call me</i> <code>Eclipse</code><p>
 </div>
 <div>
-  <p>now I learning ML/DL, and I very like it.<p>
+  <p>Now I learning ML/DL, and I very like it.<p>
   <p>I hope to get a job this year, before the end of summer.</p>
   <p>
     I writed some projects, and learning with mentor.
