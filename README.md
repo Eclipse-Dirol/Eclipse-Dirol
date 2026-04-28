@@ -1,5 +1,5 @@
 <h1 align="center">
-  What's up, guys!
+  What's up, guys! 🤙 
 </h1>
 <!--
 **Eclipse-Dirol/Eclipse-Dirol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
