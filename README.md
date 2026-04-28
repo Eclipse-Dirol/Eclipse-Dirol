@@ -1,26 +1,18 @@
 <div align="center">
-  <h1>👋 Hi, I'm Eclipse-Dirol</h1>
+  <h1>👋 What's up guys, I'm Eclipse-Dirol 🤙</h1>
   <p><i>But what I like best is when people just call me</i> <code>Eclipse</code><p>
 </div>
 <div>
-  <p>now i learning ML/DL, and I very like it. I writed some projects, and learning with mentor.<p>
+  <p>now I learning ML/DL, and I very like it.<p>
   <p>I hope to get a job this year, before the end of summer.</p>
   <p>
-    my statistics in GITHUB:
-    <img src="https://vercel.app" alt="Моя статистика" />
+    I writed some projects, and learning with mentor.
   </p>
 </div>
-<!--
-**Eclipse-Dirol/Eclipse-Dirol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+- 🌱 I’m currently learning: Machine learning and Deep learning in particular NLP/LLM 📘
+- 🤔 I’m looking for help with my education ML/DL 📚
+- 📫 How to reach me: ... 📬
+- 😄 Pronouns: <code>Eclipse</code>
+- ⚡ Fun fact: I life in Russia and born here 😅
+</div>
