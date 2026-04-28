@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Eclipse-Dirol</h1>
-  <p><i>But what I like best is when people just call me <b>Eclipse</b></i></p>
+  <p><i>But what I like best is when people just call me <b>`Eclipse`</b></i></p>
 </div>
 <!--
 **Eclipse-Dirol/Eclipse-Dirol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
