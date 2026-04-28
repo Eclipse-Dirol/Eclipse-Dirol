@@ -1,9 +1,8 @@
 <h1 align="center">
   What's up, guys! 🤙 
 </h1>
-<h2 align="center">
-  I`m Eclipse-Dirol
-</h2>
+  I'm Eclipse-Dirol, but what I like best is when people just call me Eclipse
+  
 <!--
 **Eclipse-Dirol/Eclipse-Dirol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
