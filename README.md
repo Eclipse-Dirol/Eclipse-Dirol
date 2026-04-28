@@ -10,9 +10,9 @@
   </p>
 </div>
 <div>
-- 🌱 I’m currently learning: Machine learning and Deep learning in particular NLP/LLM 📘
-- 🤔 I’m looking for help with my education ML/DL 📚
-- 📫 How to reach me: ... 📬
-- 😄 Pronouns: <code>Eclipse</code>
-- ⚡ Fun fact: I life in Russia and born here 😅
+- 🌱 I’m currently learning: Machine learning and Deep learning in particular NLP/LLM 📘   
+- 🤔 I’m looking for help with my education ML/DL 📚   
+- 📫 How to reach me: ... 📬   
+- 😄 Pronouns: <code>Eclipse</code>   
+- ⚡ Fun fact: I life in Russia and born here 😅   
 </div>
