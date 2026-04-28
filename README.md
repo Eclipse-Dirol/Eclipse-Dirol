@@ -1,6 +1,5 @@
-## Hi there 👋
 <h1 align="center">
-  Hi there! <img src="https://githubusercontent.com" width="30px">
+  What's up, guys!
 </h1>
 <!--
 **Eclipse-Dirol/Eclipse-Dirol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
