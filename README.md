@@ -7,7 +7,7 @@
   <p>I hope to get a job this year, before the end of summer.</p>
   <p>
     my statistics in GITHUB:
-    ![Моя статистика](https://vercel.app)
+    <img src="https://vercel.app" alt="Моя статистика" />
   </p>
 </div>
 <!--
