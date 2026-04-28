@@ -16,7 +16,7 @@
 <div>- ⚡ Fun fact: I life in Russia and born here 😅</div>
 <div>
   <br>my best repo: </br>
-  <a href="https://github.com/Eclipse-Dirol/project">
-  <img src="https://shields.io" />
-  </a>
+    <code><a href="https://github.com/Eclipse-Dirol/project">
+    <img src="https://shields.io" />
+    </a></code>
 </div>
