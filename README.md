@@ -9,10 +9,8 @@
     I writed some projects, and learning with mentor.
   </p>
 </div>
-<div>
 <div>- 🌱 I’m currently learning: Machine learning and Deep learning in particular NLP/LLM 📘</div>
 <div>- 🤔 I’m looking for help with my education ML/DL 📚</div>
 <div>- 📫 How to reach me: ... 📬</div>
 <div>- 😄 Pronouns: <code>Eclipse</code></div>
 <div>- ⚡ Fun fact: I life in Russia and born here 😅</div>
-</div>
