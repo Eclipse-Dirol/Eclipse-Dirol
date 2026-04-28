@@ -5,6 +5,10 @@
 <div>
   <p>now i learning ML/DL, and I very like it. I writed some projects, and learning with mentor.<p>
   <p>I hope to get a job this year, before the end of summer.</p>
+  <p>
+    my statistics in GITHUB:
+    ![Моя статистика GitHub](https://vercel.app)
+  </p>
 </div>
 <!--
 **Eclipse-Dirol/Eclipse-Dirol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
