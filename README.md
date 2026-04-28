@@ -16,8 +16,8 @@
 <div>- ⚡ Fun fact: I life in Russia and born here 😅</div>
 <div>
   <br>my best repo: </br>
-    <a href="https://github.com/Eclipse-Dirol/project">
     <br>default ML pipeline</br>
+    <a href="https://github.com/Eclipse-Dirol/project">
     <img src="https://img.shields.io/badge/github-repo-blue?logo=github" />
     </a>
 </div>
