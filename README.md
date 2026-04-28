@@ -1,5 +1,7 @@
 ## Hi there 👋
-![Hi](https://vercel.app)
+<h1 align="center">
+  Hi there! <img src="https://githubusercontent.com" width="30px">
+</h1>
 <!--
 **Eclipse-Dirol/Eclipse-Dirol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
