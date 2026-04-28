@@ -2,6 +2,9 @@
   <h1>👋 Hi, I'm Eclipse-Dirol</h1>
   <p><i>But what I like best is when people just call me</i> <code>Eclipse</code></p>
 </div>
+<div>
+  Now i learning ML/DL, and I very like it
+</div>
 <!--
 **Eclipse-Dirol/Eclipse-Dirol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
