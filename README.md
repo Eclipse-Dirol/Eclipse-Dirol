@@ -14,3 +14,9 @@
 <div>- 📫 How to reach me: ... 📬</div>
 <div>- 😄 Pronouns: <code>Eclipse</code></div>
 <div>- ⚡ Fun fact: I life in Russia and born here 😅</div>
+<div>
+  my best repo:
+  <a href="https://github.com/Eclipse-Dirol/project">
+  <img src="https://shields.io" />
+  </a>
+</div>
